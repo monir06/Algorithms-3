@@ -1,0 +1,7 @@
+input1          166
+input2          154
+input3          160
+input4          -1
+sample1         4
+sample2         9
+sample3         6
